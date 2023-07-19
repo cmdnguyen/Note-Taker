@@ -1,5 +1,7 @@
 # Note Taker
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Description
 
 This is a note taking application using Express. This app takes user input and stores it in a database. The database is shown in the left column of the page. You can also delete notes out of the database.
