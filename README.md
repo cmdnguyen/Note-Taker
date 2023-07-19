@@ -8,6 +8,8 @@ This app is easy way to jot down quick notes and save them. It takes the saved n
 
 One of the challenges I faced is trying to debugging why new notes were not saving. Once I understood I needed to read, parse and write to the data, the app was working properly.
 
+Here's the link to the app: https://nameless-cliffs-84541-4130007a5820.herokuapp.com/
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -17,6 +19,7 @@ One of the challenges I faced is trying to debugging why new notes were not savi
 
 ## Installation
 
+N/A
 
 ## Usage
 
