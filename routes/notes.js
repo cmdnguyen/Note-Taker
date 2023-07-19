@@ -1,1 +1,3 @@
-const notesRouter = require('express').Router()
+const notes = require('express').Router()
+
+module.exports = notes;
