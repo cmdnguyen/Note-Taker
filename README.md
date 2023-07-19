@@ -20,10 +20,33 @@ One of the challenges I faced is trying to debugging why new notes were not savi
 
 ## Usage
 
+Once you start the app, you will see the landing page with a "Get Started" button. It should look like this:
+
+![Note Taker Landing Page](./Assets/NoteTakerLandingPage.png)
+
+Clicking on the "Get Started" button will take you to the notes page. It should look similar to this:
+
+![Note Taker Notes Page](./Assets/NoteTakerNotesPage.png)
+
+The user should be able to go through the notes saved and add notes through the add icon. Here's what it should look like when you input notes:
+
+![Note Taker Adding Notes](./Assets/NoteTakerAddingNote.png)
+
+Notice that save icon appears right next to the add icon once you filled out the title and text of the note you want to add. 
+
+Click on the save icon and it should save it. The note will be stored on the left column. It should look like this:
+
+![Note Taker Note Added](./Assets/NoteTakerNoteAdded.png)
+
+Users can delete notes from the database through the trash icon. This is what the app looks like when you delete all the notes:
+
+![Note Taker Deleted Notes](./Assets/NoteTakerDeletedNotes.png)
 
 ## Credits
 
 Boot Camp Tutor, Alexis Gonzalez
+
+[Procademy's Youtube](https://www.youtube.com/watch?v=00NNuZHF56A&ab_channel=procademy)
 
 ## License
 
